@@ -22,9 +22,6 @@ namespace _1_1_Array_Introduction
             d3 = 9.5;
 
            
-
-       
-
         }
 
     }
